@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "primer commit"
+git remote add origin https://github.com/TU_USUARIO/bot-inmobiliario.git
+git push -u origin main
