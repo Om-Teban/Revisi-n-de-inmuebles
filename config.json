@@ -1,0 +1,11 @@
+{
+  "precio_min": 400000,
+  "precio_max": 550000,
+  "moneda": "ARS",
+  "expensas_incluidas": true,
+  "zonas": ["Capital Federal"],
+  "ambientes": 1,
+  "tipo": ["departamento"],
+  "dueno_directo": true,
+  "comentario": "Monoambiente CABA, alquiler con expensas incluidas, dueño directo"
+}
